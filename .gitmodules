@@ -1,0 +1,3 @@
+[submodule "src/modules/NetsBlox"]
+	path = src/modules/NetsBlox
+	url = https://github.com/NetsBlox/NetsBlox
